@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name[es]=Authenticator
+Name[fr]=Authentificateur
+Name=Authenticator
+GenericName[es]=Autenticación de doble factor
+GenericName=Two-factor Authentication
+Comment[es]=Una aplicación de autenticación de doble factor
+Comment=A Two-Factor Authentication application
+Type=Application
+Exec=authenticator
+Terminal=false
+Categories=GNOME;GTK;Security;Utility;
+Keywords[es]=Gnome;GTK;verificación;2FA;autenticación;OTP;doble;factor;
+Keywords=Gnome;GTK;Verification;2FA;Authentication;OTP;TwoFactor;
+# Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+Icon=com.github.bilelmoussaoui.Authenticator
+StartupNotify=true
+StartupWMClass=com.github.bilelmoussaoui.Authenticator
